@@ -10,7 +10,7 @@ Pillow==8.1.1
 pretrainedmodels==0.7.4
 Flask==1.1.2
 easydict==1.8
-PyYAML==5.3.1
+PyYAML==5.4
 tensorboardX==2.0
 pandas==1.0.4
 pydocs==0.2
